@@ -21,7 +21,6 @@ And request user
 When method post
 Then status 201
 
-
 Scenario: Get all Notes
 
 Given url 'http://localhost:8080/Note/get'
